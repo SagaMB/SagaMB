@@ -20,9 +20,9 @@
 
 - 🌱 Learning on some Java Tools and Frameworks
 
-- 💬 Ask me about anything, I am happy to help.
-
 - 💪🏽 Expertise in Java, Spring boot, Junit(Mockito), Maven, Postman, and Restful Web Services.
+
+- 💬 Ask me about anything, I am happy to help.
 
 - 📫 You can reach me at **sagarbandennavarmm@gmail.com**
 
